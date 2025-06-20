@@ -52,6 +52,7 @@ The application is targeted at cat lovers, pet owners, and anyone seeking to exp
 - Show presentations filmed with GoPro devices involving Scottish Fold cats.
 - List all characteristics of the American Shorthair breed.
 
+See the documentation for more info. [DOC](BranzeaAna_ProiectBDMM.pdf)
 ---
 
 > This project was created as part of a multimedia databases course to demonstrate advanced entity modeling and metadata integration using PostgreSQL.
